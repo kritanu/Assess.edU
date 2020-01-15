@@ -1,2 +1,4 @@
 # Assess.edU
-![](/icon.png)
+<p align="center">
+  ![](/icon.png)
+</p>
