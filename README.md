@@ -1,2 +1,2 @@
 # Assess.edU
-!(logo.png)
+!(/logo.png)
