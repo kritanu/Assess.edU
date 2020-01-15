@@ -15,4 +15,5 @@
   <img src="https://github.com/kritanu/Assess.edU/blob/master/images/s13.JPG?raw=true"/>
   <img src="https://github.com/kritanu/Assess.edU/blob/master/images/s14.JPG?raw=true"/>
   <img src="https://github.com/kritanu/Assess.edU/blob/master/images/s15.JPG?raw=true"/>
+  <img src="https://github.com/kritanu/Assess.edU/blob/master/images/logo.png?raw=true"/>
 </p>
