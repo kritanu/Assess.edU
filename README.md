@@ -1,4 +1,4 @@
 # Assess.edU
 <p align="center">
-  ![](/icon.png)
+  <img src="https://github.com/kritanu/Assess.edU/blob/master/icon.png?raw=true"/>
 </p>
